@@ -1,0 +1,25 @@
+[   
+    {
+        "romName": "Pixel Experience Plus",
+        "path": "pixel-plus",
+        "deviceData": [
+            {
+                "name": "beryllium",
+                "builds": [
+                    {
+                        "name": "PixelExperience_Plus_beryllium-10.0-20201122-0612-OFFICIAL",
+                        "url": "dl.lakshay.wtf"
+                    },
+                    {
+                        "name": "PixelExperience_Plus_beryllium-10.0-20201011-1446-OFFICIAL",
+                        "url": "dl.lakshay.wtf"
+                    },
+                    {
+                        "name": "PixelExperience_Plus_beryllium-10.0-20200916-1539-OFFICIAL",
+                        "url": "dl.lakshay.wtf"
+                    }
+                ]
+            }
+        ]
+    }    
+]
